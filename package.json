@@ -1,0 +1,15 @@
+{
+  "name": "junaid-rasul-60k-portfolio-v2",
+  "version": "2.0.0",
+  "description": "Animated Flagship Portfolio for Muhammad Junaid Rasul — Senior MERN & DevOps Architect",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.4.0",
+    "helmet": "^7.1.0"
+  }
+}
